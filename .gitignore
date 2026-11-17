@@ -1,0 +1,9 @@
+cookies.json
+.venv/
+__pycache__/
+*.part
+_inventory.json
+_inventaire.json
+_report.csv
+_history.log
+.DS_Store
